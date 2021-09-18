@@ -8,7 +8,7 @@ This repository is meant for people who want a basic(default) flask website.
 ```
 $ cd <path to the cloned repository>
 $ flask run
-  *run Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) 
+  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) 
 ```
 
 THAT'S IT!! :partying_face:
