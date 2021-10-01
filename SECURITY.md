@@ -1,0 +1,5 @@
+# Security Policy
+
+## Supported Versions
+
+WE WILL UPDATE YOU LATER WHEN WE GET MORE THAN 2 RELEASES OF THIS PROJECT
