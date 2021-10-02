@@ -5,6 +5,6 @@ updates:
 
   # Maintain dependencies for GitHub Actions
   - package-ecosystem: "pip"
-    directory: "/requirements.txt"
+    directory: "/Pipfile"
     schedule:
       interval: "daily"
