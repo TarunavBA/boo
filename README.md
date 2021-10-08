@@ -4,5 +4,4 @@ I am sure you all have been using the social media and stuff so here is one for 
 
 # Special thanks 
 
-- [David Obembe](https://github.com/dayvheed/)
-- [myself](https://github.com/TarunavBA/)
+To all the contributors. dont know how to contribute? see our [contributing guidelines](contributing.md)
