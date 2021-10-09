@@ -4,4 +4,4 @@ I am sure you all have been using the social media and stuff so here is one for 
 
 # Special thanks 
 
-To all the contributors. dont know how to contribute? see our [contributing guidelines](contributing.md)
+To all the contributors. dont know how to contribute? see our [contributing guidelines](CONTRIBUTING.md)
