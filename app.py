@@ -8,4 +8,4 @@ def hello_world():
 
 @app.route("/login")
 def login():
-    return <p>This is the login page</p>
+    return "<p>This is the login page</p>"
