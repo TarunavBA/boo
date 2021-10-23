@@ -1,5 +1,6 @@
 # Checks
 [![.github/workflows/action.yml](https://github.com/TarunavBA/boo/actions/workflows/action.yml/badge.svg)](https://github.com/TarunavBA/boo/actions/workflows/action.yml)
+[![CodeQL](https://github.com/TarunavBA/boo/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/TarunavBA/boo/actions/workflows/codeql-analysis.yml)
 
 # Social Network
 
