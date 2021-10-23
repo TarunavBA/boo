@@ -1,3 +1,6 @@
+# Checks
+[![.github/workflows/action.yml](https://github.com/TarunavBA/boo/actions/workflows/action.yml/badge.svg)](https://github.com/TarunavBA/boo/actions/workflows/action.yml)
+
 # Social Network
 
 I am sure you all have been using the social media and stuff so here is one for you all! it is a python powered Social networking website! 😊
