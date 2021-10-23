@@ -1,4 +1,4 @@
-
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![.github/workflows/action.yml](https://github.com/TarunavBA/boo/actions/workflows/action.yml/badge.svg)](https://github.com/TarunavBA/boo/actions/workflows/action.yml)
 [![CodeQL](https://github.com/TarunavBA/boo/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/TarunavBA/boo/actions/workflows/codeql-analysis.yml)
 
