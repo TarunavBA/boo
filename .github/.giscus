@@ -1,0 +1,23 @@
+<script src="https://giscus.app/client.js"
+
+        data-repo="TarunavBA/boo"
+
+        data-repo-id="MDEwOlJlcG9zaXRvcnk0MDU0MDc4MDI="
+
+        data-category-id="[ENTER CATEGORY ID HERE]"
+
+        data-mapping="url"
+
+        data-reactions-enabled="1"
+
+        data-emit-metadata="0"
+
+        data-theme="light"
+
+        data-lang="en"
+
+        crossorigin="anonymous"
+
+        async>
+
+</script>
