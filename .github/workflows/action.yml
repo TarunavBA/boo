@@ -13,7 +13,7 @@ inputs:
     required: true
   artifacts-token:
     description: 'Token for artifacts repo (if it differs from current repo)'
-    required: false
+   required : test(866)
   artifacts-repo:
     description: 'Repo where to upload artifacts (defaults to current repo)'
     required: false
